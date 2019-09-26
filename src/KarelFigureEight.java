@@ -11,6 +11,46 @@ public class KarelFigureEight {
         Thing thing1 = new Thing(ssfs, 2, 3);
         Thing thing2 = new Thing(ssfs, 4, 3);
 
+        karel.turnLeft();
+        karel.move();
+        karel.turnLeft();
+        karel.turnLeft();
+        karel.turnLeft();
+        karel.move();
+        karel.move();
+        karel.turnLeft();
+        karel.turnLeft();
+        karel.turnLeft();
+        karel.move();
+        karel.move();
+        karel.turnLeft();
+        karel.move();
+        karel.move();
+        karel.turnLeft();
+        karel.move();
+        karel.move();
+        karel.turnLeft();
+        karel.move();
+        karel.move();
+        karel.turnLeft();
+        karel.move();
+        karel.move();
+        karel.turnLeft();
+        karel.turnLeft();
+        karel.turnLeft();
+        karel.move();
+        karel.move();
+        karel.turnLeft();
+        karel.turnLeft();
+        karel.turnLeft();
+        karel.move();
+        karel.turnLeft();
+        karel.turnLeft();
+        karel.turnLeft();
+
+
+
+
 
 
 
