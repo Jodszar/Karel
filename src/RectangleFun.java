@@ -1,6 +1,6 @@
 import java.awt.*;
 import java.util.Scanner;
-import java.util.function.DoubleBinaryOperator;
+
 
 public class RectangleFun {
     public static void main(String[] args) {
