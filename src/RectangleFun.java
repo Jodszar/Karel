@@ -1,6 +1,5 @@
 import java.awt.*;
 import java.util.Scanner;
-import java.util.function.DoubleBinaryOperator;
 
 public class RectangleFun {
     public static void main(String[] args) {
@@ -15,7 +14,7 @@ public class RectangleFun {
         System.out.println("Y: ");
         int y= rf. nextInt();
 
-        Rectangle r= new Rectangle(x,y,width,height);
+        Rectangle r = new Rectangle(x,y,width,height);
         double perimeter= (r.getWidth()+ r.getHeight())*2;
         System.out.println("Perimeter= " + perimeter);
         r.setLocation(x-4, y+4);
